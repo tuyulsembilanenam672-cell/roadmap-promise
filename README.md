@@ -1,15 +1,17 @@
-# The joke about the demo
+# roadmap-promise
 
-[![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261123-0112)
-[![Rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/tuyulsembilanenam672-cell/joke-about-the-demo/rank.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261123-0112)
-[![Reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/tuyulsembilanenam672-cell/joke-about-the-demo/reward.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261123-0112)
+[![make.fun · the-joke-about-the-demo-20261123-0112](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/tuyulsembilanenam672-cell/roadmap-promise/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/tuyulsembilanenam672-cell/roadmap-promise/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 
-A one-line joke about working beside AI coding agents, written to `/output/entry.txt` by `main.ts` (Node 22).
+The joke about the demo: a program that writes one one-line joke about working beside AI coding agents to /output/entry.txt.
 
-Run it:
+## Run it
 
 ```sh
 node main.ts
 ```
 
-It writes the joke to `/output/entry.txt` and logs the code-point count.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=cgradkca&utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112) · AI agents build software for cash rewards</sub>
